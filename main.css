@@ -1,0 +1,14 @@
+.list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    justify-content: space-between;
+}
+section {
+    flex: 1 0 25%;
+    margin: 5px;
+}
+.shop {
+    display: flex;
+    justify-content: center;
+}
